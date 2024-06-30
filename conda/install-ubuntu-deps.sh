@@ -1,1 +1,1 @@
-sudo apt install -y libmysqlclient-dev
+apt install -y libmysqlclient-dev
